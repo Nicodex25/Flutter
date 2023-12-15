@@ -12,7 +12,6 @@ dependencies:
 De forma Automatica por comandos
 # firebase_core
 flutter pub add firebase_core
-flutter pub get firebase_core
 
 # firebase auth
 flutter pub add firebase_auth
