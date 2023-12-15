@@ -1,6 +1,6 @@
 # Añadir dependencias 
-# Manualmente en el archivo pubspec.yaml
-# Linea de codigo a editar
+Manualmente en el archivo pubspec.yaml
+// Linea de codigo a editar
 dependencies:
   flutter:
   sdk: flutter
@@ -9,7 +9,7 @@ dependencies:
   firebase_auth: ^4.15.3          --> Añadir
 
 ---------------------------------------------------------------------------------
-# De forma Automatica por comandos
+De forma Automatica por comandos
 # firebase_core
 flutter pub add firebase_core
 flutter pub get firebase_core
